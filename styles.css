@@ -21,3 +21,9 @@ img {
   max-width: 960px;
   margin: 0 auto;
 }
+
+p {
+  padding: 10px 10px;
+  padding-bottom: 5px;
+  font-size: 12pt;
+}

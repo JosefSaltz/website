@@ -22,8 +22,24 @@ img {
   margin: 0 auto;
 }
 
+.buttons {
+  float: left;
+}
+
 p {
   padding: 10px 10px;
   padding-bottom: 5px;
   font-size: 12pt;
+}
+
+.btn {
+  float: right;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+
+ 
+hr {
+  clear: both;
 }
